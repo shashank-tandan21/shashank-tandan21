@@ -15,11 +15,20 @@ I've built multiple projects, and I’m continuously working on improving and bu
 If you want to learn how I do it, check out my repositories here!
 
 ---
+### Tools & Tech
 
-Fun Facts:
+• Node.js, Express, PostGre, MongoDB, Docker
+• Python for Mainline coding  
+• Agentic AI workflows
+• Git, GitHub, VS Code
 
-• I learn by building projects
-• I enjoy backend development and data analysis
-• Currently exploring Agentic AI workflows
-• Always curious to understand how things work
-• Hobbies: coding, learning new tech, problem solving
+---
+
+### A Bit About Me
+
+• 💻 I learn best by building real projects
+• 🧠 Not a fan of just theory — I prefer practical work
+• 📊 Into backend systems and AI agent work, trying to building for personal work.
+• ⚡ I like building things that are simple, useful, and efficient
+
+---
