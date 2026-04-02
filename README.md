@@ -26,8 +26,8 @@ If you want to learn how I do it, check out my repositories here!
 ---
 ### A Bit About Me
 
-• 💻 I learn best by building real projects <br>
-• 📊 Into backend systems and AI agent work, trying to building for personal work <br>
-• ⚡ I like building things that are simple, useful, and efficient <br>
+•  I learn best by building real projects <br>
+•  Into backend systems and AI agent work, trying to building for personal work <br>
+•  I like building things that are simple, useful, and efficient <br>
 
 ---
