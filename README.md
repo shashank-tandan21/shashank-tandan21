@@ -1,16 +1,25 @@
-## Hi there 👋
+Hey there! 👋
 
-<!--
-**shashank-tandan21/shashank-tandan21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Shashank](https://github.com/shashank-tandan21), a backend developer and learner based in India.
 
-Here are some ideas to get you started:
+I design and build systems and applications that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If an idea pops into my head, chances are I’ll try to build it and understand it deeply.
+
+My main tech stack is Node.js, MySQL, Python (pandas), and Agentic Workflows. My favorite tools are VS Code, Git, and GitHub.
+
+I've got a bunch of projects, but my favorite is the [DEVPATH_AI](https://github.com/shashank-tandan21/DevPath-AI.git).
+
+I've built multiple projects, and I’m continuously working on improving and building more.
+
+If you want to learn how I do it, check out my repositories here!
+
+---
+
+Fun Facts:
+
+• I learn by building projects
+• I enjoy backend development and data analysis
+• Currently exploring Agentic AI workflows
+• Always curious to understand how things work
+• Hobbies: coding, learning new tech, problem solving
