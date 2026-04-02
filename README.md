@@ -6,7 +6,7 @@ I design and build systems and applications that solve real-world problems.
 
 If an idea pops into my head, chances are I’ll try to build it and understand it deeply.
 
-My main tech stack is Node.js, MySQL, Python (pandas), and Agentic Workflows. My favorite tools are ,Stitch, Figma, Antigraity, VS Code, Git, and GitHub.
+My main tech stack is Node.js, MySQL, Python, and Agentic Workflows. My favorite tools are ,Stitch, Figma, Antigraity, VS Code, Git, and GitHub.
 
 I've got a bunch of projects, but my favorite is the [DEVPATH_AI](https://github.com/shashank-tandan21/DevPath-AI.git).
 
