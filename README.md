@@ -1,9 +1,12 @@
-Hey there! 👋
+Hey there!👀
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=35&color=F75C7E&center=true&vCenter=true&width=600&lines=I%27m+a+Software+Engineer" />
 </p>
+<h1 align="left">
+   I'm <a href="https://github.com/shashank-tandan21">SHASHANK TANDAN</a>
+</h1>
 
-I'm [Shashank](https://github.com/shashank-tandan21), an Agentic Ai ,backend developer and learner based in India.
+An Agentic Ai ,backend developer and learner based in India.
 
 I design and build systems and applications, chances are I’ll try to build it and understand it deeply.
 
