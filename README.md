@@ -1,6 +1,6 @@
 Hey there! 👋
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&color=F75C7E&center=true&vCenter=true&lines=I%27m+a+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&color=F75C7E&center=true&vCenter=true&lines=I%27I'm+a+Software+Engineer" />
 </p>
 
 I'm [Shashank](https://github.com/shashank-tandan21), an Agentic Ai ,backend developer and learner based in India.
