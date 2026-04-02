@@ -1,6 +1,6 @@
 Hey there! 👋
 
-I'm [Shashank](https://github.com/shashank-tandan21), a backend developer and learner based in India.
+I'm [Shashank](https://github.com/shashank-tandan21), an Agentic Ai ,backend developer and learner based in India.
 
 I design and build systems and applications that solve real-world problems.
 
